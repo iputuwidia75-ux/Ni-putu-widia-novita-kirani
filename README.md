@@ -3,8 +3,8 @@
 - **Nama:** Ni Putu Widia Novita Kirani
 - **NIM:** 2501010165
 - **Program Studi:** Informatika — Institut Bisnis dan Teknologi Indonesia (INSTIKI)
-- **Mata Kuliah:** Akuisisi dan Manajemen Data (BIFP-243)
-
+- **Mata Kuliah:** Data Acquisition & Management
+- 
 ## 1. Sumber Data
 - **Nama Sumber:** OpenStreetMap (OSM) melalui Overpass API — Kategori Akomodasi Pariwisata Kabupaten Badung
 - **URL Endpoint API:** `[https://overpass-api.de/api/interpreter](https://overpass-api.de/api/interpreter)`
